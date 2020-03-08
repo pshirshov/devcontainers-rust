@@ -1,0 +1,11 @@
+{
+	"name": "Rust",
+	"dockerFile": "Dockerfile",
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/zsh",
+	},
+	"remoteUser": "vscode",
+	"extensions": [
+		"swellaby.rust-pack",
+	]
+}
